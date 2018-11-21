@@ -5,7 +5,7 @@ Created on Nov 21, 2018
 Aaron's project
 
 ### Description
-Describe what your project is about and what it does
+Sample project to prove my newly developed Git skills
 
 ### Files used
 Include the files used
