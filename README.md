@@ -8,7 +8,7 @@ Aaron's project
 Sample project to prove my newly developed Git skills
 
 ### Files used
-Include the files used
+Bikeshare_2.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
