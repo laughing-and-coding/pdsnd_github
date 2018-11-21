@@ -2,7 +2,7 @@
 Created on Nov 21, 2018
 
 ### Project Title
-Aaron's project
+Aaron's final project
 
 ### Description
 Sample project to prove my newly developed Git skills
