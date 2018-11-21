@@ -175,7 +175,7 @@ def user_stats(df):
 
 def display_data(df):
     """
-    Asks user whether they would like to see 5 lines of raw data from the selected city's file. Continues asking if they would like additional 5 lines of data until they say no.
+    Asks user whether they would like to see 5 lines of raw data from the CSV file for the user's chosen city. Continues asking if they would like additional 5 lines of data until they say no.
     """
     raw_data = []
     valid_response = ['yes', 'no']
